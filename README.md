@@ -3,6 +3,7 @@
 RideCompare is a modern web application designed to help users compare ride options across various ride-sharing platforms. Built with modern front-end technologies like Vite, React, TypeScript, and styled using Tailwind CSS, the app provides a fast and responsive user experience.
 
 Tech Stack
+
 React – for building dynamic UI components
 
 TypeScript – for static typing and better developer experience
